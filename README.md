@@ -58,5 +58,5 @@ Currently leading an enterprise agentic platform running 1200+ GenAI & Agentic u
 
 ## Currently
 
-- Software Engineer (AI & Data) @ Incedo, leading and productionizing multi-agent platforms
+- Leading and productionizing multi-agent platforms
 - Building MCP servers, A2A-compliant agents, and integrating LLM observability into systems that enterprises actually depend on
